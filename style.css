@@ -24,6 +24,8 @@ main .imagemain {
 
 main .textmain {
     width: 100%;
+    background-color: blue;
+    padding-bottom: 20px;
 }
 
 .textmain div, aside, section {
@@ -47,27 +49,27 @@ main .textmain {
     width: 22%;
     height: 300px;
     background-color: lightblue;
-    margin: 0 2% 20px 0;
+    margin-right: 2%;
 }
 
 .textmain section.central-main {
     width: 52%;
     height: 300px;
     background-color: lightblue;
-    margin: 0 0 20px 0;
 }
 
 .textmain aside.right-main {
     width: 22%;
     height: 300px;
     background-color: lightblue;
-    margin: 0 0 20px 2%;
+    margin-left: 2%;
 }
 
 footer .bottompage {
     width: 100%;
     height: 100px;
     background-color: purple;
+    margin-top: 20px;
 }
 
 
