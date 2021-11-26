@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+header .top-page {
+    width: 100%;
+    height: 100px;
+    background-color: pink;
+}
+
